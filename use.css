@@ -1,0 +1,44 @@
+header {
+    background-color: #3f51b5;
+    padding: 10px;
+    color: #fff;
+    text-align: center;
+    height: 55px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    z-index: 1000;
+}
+
+.main {
+    padding: 20px;
+    margin-top: 70px;
+}
+
+.graph-gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+}
+
+.form1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    row-gap: 19px;
+    column-gap: 15px;
+    justify-items: center;
+}
+
+.graph-container {
+    padding: 20px;
+}
+
+footer {
+    background-color: #3f51b5;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    position: static;
+    width: 100%;
+    bottom: 0;
+}
