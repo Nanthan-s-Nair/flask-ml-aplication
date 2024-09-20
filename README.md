@@ -54,3 +54,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### Acknowledgements
 
 This project is inspired by the need for a quick and efficient solution for selecting suitable fans based on specific requirements. The use of a neural network model allows for a data-driven approach to fan recommendations.
+
+
+### Screenshots
+<img width="491" alt="image" src="https://github.com/user-attachments/assets/2d27ded7-eb5a-45b2-a1ee-bd697340ad92">
+
+<img width="789" alt="image" src="https://github.com/user-attachments/assets/ad760b17-5866-4446-a87f-ff76e9360bdd">
+
+<img width="618" alt="image" src="https://github.com/user-attachments/assets/06568b42-eae7-4926-8380-e5cb839413af">
+
+
+
